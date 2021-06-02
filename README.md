@@ -1,14 +1,13 @@
-# Quiz_app_Using_flutter
+# BMI_Calculator_Using _flutter
 
 ### About:
-- A Quizz app having two button "True" and "False".The user pick the right answer than it show's Check in green sign else show's Close sign with red color
+- This is a BMI calculator which is quite helpful to keep tracking your BMI and also help to give you suggestions based on the performance (what is the range of BMI category you fall). I will also try to improve it based on feedback provided by customers in the coming future and ready to collab with extrenals as well. 
 
 <br><br>
 
 
 ![s1](https://github.com/blackhat955/BMI_calculator/blob/main/image/Screenshot_1621251159.png) <br><br>
-![s2](https://github.com/blackhat955/Quiz_app_Using_flutter/blob/main/images/Screenshot%20(146).png)  <br><br>
-![s3](https://github.com/blackhat955/Quiz_app_Using_flutter/blob/main/images/Screenshot%20(147).png)  <br><br>
+![s2](https://github.com/blackhat955/BMI_calculator/blob/main/image/Screenshot_1621333426.png)  <br><br>
 
 - For Makeing it  More User Friendly I am still working on it .<br><br>
 ## Contributer's is Always welcome 
